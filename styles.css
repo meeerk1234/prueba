@@ -1,0 +1,18 @@
+.titulo{
+    color:blue;
+
+}
+
+body{
+    background-color: yellow;
+}
+a{
+    color: aliceblue;
+    margin: 30px;
+}
+div{
+    background-color: red;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+}
